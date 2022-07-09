@@ -1,5 +1,5 @@
-# xss-notes
-jotting down notes as I learn about xss
+
+jotting down notes as I learn security research - one bug at a time and python scripting
 
 
-what is xss: 
+
